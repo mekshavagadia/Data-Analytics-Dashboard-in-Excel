@@ -35,7 +35,7 @@ Checked monthly/ yearly sales trends to understand growth.
 Found the top-performing and low-performing product segments.
 
 DATASET LINK :
-
+<a href : https://github.com/mekshavagadia/Data-Analytics-Dashboard-in-Excel/blob/main/super_store_Dataset.xlsx/>
 
 📌 Tools Used:
 
