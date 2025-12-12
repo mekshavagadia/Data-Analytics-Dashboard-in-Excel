@@ -1,40 +1,48 @@
-# Data-Analytics-Dashboard-in-Excel
-Project Overview:
-This project focuses on analyzing a Superstore Sales dataset (1000+ rows) and building an interactive Excel dashboard to uncover insights related to sales performance, customer purchasing behaviour, and product category trends.
+Data Analytics Dashboard in Excel
+Project Overview
 
-🔍 Key Steps Performed:
+This project is based on the analysis of a Superstore Sales dataset (1000+ rows). The main objective is to clean the data, prepare it for analysis, and build an interactive Excel dashboard that highlights key sales and performance insights.
 
-Imported raw data and performed complete data cleaning (handled null values, removed duplicates, fixed date formats, corrected data types).
+Steps Performed
+1. Data Cleaning
 
-Created new calculated fields such as Order Year, Order Month, and Profit Ratio for analysis.
+Removed duplicates and handled null values
 
-Applied Pivot Tables & Pivot Charts to analyse:
+Corrected date formats and data types
+
+Created new fields such as Order Year, Order Month, and Profit Ratio
+
+2. Data Analysis
+
+Used Pivot Tables and Pivot Charts to analyze:
 
 Sales vs Orders
 
 Segment-wise performance
 
-Category & Sub-Category trends
+Category and Sub-Category trends
 
-Region & State-level insights
+Region and State-level insights
 
-Built an interactive dashboard using:
+3. Dashboard Creation
+
+Designed an interactive dashboard that includes:
 
 Slicers (Segment, Category, Region)
 
 Trend charts (Sales over Time)
 
-KPI Cards (Total Sales, Total Orders, Average Sales, Profit)
+KPI cards (Total Sales, Total Orders, Average Sales, Profit)
 
-🎯 Key Insights:
+Key Insights
 
-Identified which categories and states contribute the most to total revenue.
+Identified top revenue-generating categories and states
 
-Checked monthly/ yearly sales trends to understand growth.
+Found monthly and yearly sales trends
 
-Found the top-performing and low-performing product segments.
+Highlighted high- and low-performing segments
 
-📌 Tools Used:
+Tools Used
 
 Microsoft Excel
 
@@ -42,9 +50,10 @@ Pivot Tables
 
 Pivot Charts
 
-Data Cleaning
+Slicers
 
-Slicers & Dashboarding Techniques
+Data Cleaning techniques
 
-✨ Outcome:
-A clean, professional, interactive dashboard that helps business teams understand sales patterns and make decision-making easier.
+Outcome
+
+A simple, clean, and interactive Excel dashboard that helps users understand sales patterns and support decision-making based on data.
