@@ -1,9 +1,9 @@
-Data Analytics Dashboard in Excel
-Project Overview
+# Data Analytics Dashboard in Excel
+- Project Overview
 
 This project is based on the analysis of a Superstore Sales dataset (1000+ rows). The main objective is to clean the data, prepare it for analysis, and build an interactive Excel dashboard that highlights key sales and performance insights.
 
-Steps Performed
+# Steps Performed
 1. Data Cleaning
 
 Removed duplicates and handled null values
@@ -34,7 +34,7 @@ Trend charts (Sales over Time)
 
 KPI cards (Total Sales, Total Orders, Average Sales, Profit)
 
-Key Insights
+# Key Insights
 
 Identified top revenue-generating categories and states
 
@@ -42,7 +42,7 @@ Found monthly and yearly sales trends
 
 Highlighted high- and low-performing segments
 
-Tools Used
+# Tools Used
 
 Microsoft Excel
 
@@ -54,6 +54,6 @@ Slicers
 
 Data Cleaning techniques
 
-Outcome
+# Outcome
 
 A simple, clean, and interactive Excel dashboard that helps users understand sales patterns and support decision-making based on data.
